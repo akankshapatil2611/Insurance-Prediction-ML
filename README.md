@@ -1,6 +1,6 @@
 # Insurance-Prediction-ML
 
-Application link : https://insurancepredmlapp-api.herokuapp.com/
+Application link : https://insurancepredmlapp-api.herokuapp.com/ \n
 Title : Insurance Prediction in Machine Learning (Jan 2022 Present)
 Description : Purpose of Project it predict insurance amount to the based on
 his/her age, sex, number of children, weather person is smoker or not, and BMI.
